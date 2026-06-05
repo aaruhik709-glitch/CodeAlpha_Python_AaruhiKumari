@@ -1,5 +1,4 @@
 # CodeAlpha_Python_AaruhiKumari
-# CodeAlpha Python Programming Internship
 
 ## Intern Details
 Name: Aaruhi Kumari
